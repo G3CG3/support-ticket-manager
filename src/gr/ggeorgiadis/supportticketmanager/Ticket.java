@@ -1,4 +1,4 @@
-package gr.ggeorgiadis.ticketservice;
+package gr.ggeorgiadis.supportticketmanager;
 
 public class Ticket {
     private static int counter = 1;
@@ -14,14 +14,6 @@ public class Ticket {
 
     public int getId() {
         return id;
-    }
-
-    public String getCustomerName() {
-        return customerName;
-    }
-
-    public String getIssue() {
-        return issue;
     }
 
     @Override

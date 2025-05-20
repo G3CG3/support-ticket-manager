@@ -1,4 +1,4 @@
-package gr.ggeorgiadis.ticketservice;
+package gr.ggeorgiadis.supportticketmanager;
 
 import java.util.Deque;
 import java.util.LinkedList;

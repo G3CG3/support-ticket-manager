@@ -1,4 +1,4 @@
-package gr.ggeorgiadis.ticketservice;
+package gr.ggeorgiadis.supportticketmanager;
 
 public class TicketSystemApp {
     public static void main(String[] args) {
